@@ -9,10 +9,5 @@
 
 | [0595-big-countries](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/0595-big-countries) |
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
+
 | [1148-article-views-i](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1148-article-views-i) |
-<!---LeetCode Topics End-->
