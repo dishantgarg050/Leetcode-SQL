@@ -23,10 +23,5 @@
 
 | [1068-product-sales-analysis-i](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1068-product-sales-analysis-i) |
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
-<!---LeetCode Topics End-->
+
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |-- JOINS(MINUS), SUBQUERY, CO-RELATED SUBQUERY
