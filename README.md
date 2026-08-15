@@ -3,3 +3,11 @@
 
 | [1757-recyclable-and-low-fat-products](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1757-recyclable-and-low-fat-products) |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/0584-find-customer-referee) |
+<!---LeetCode Topics End-->
