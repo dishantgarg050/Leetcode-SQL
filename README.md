@@ -19,3 +19,11 @@
 -- JOINS
 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1068-product-sales-analysis-i) |
+<!---LeetCode Topics End-->
