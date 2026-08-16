@@ -39,4 +39,4 @@
 | [0620-not-boring-movies](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/0620-not-boring-movies) |
 
 
-| GOOD QUESTION⭐ | [1251-average-selling-price](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1251-average-selling-price) |-- CLARITY B/W LEFT AND INNER JOIN with the  help of ADVANCED NYSQL FN
+| GOOD QUESTION⭐ | [1251-average-selling-price](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1251-average-selling-price) |-- CLARITY B/W LEFT AND INNER JOIN with the  help of ADVANCED MYSQL FN
