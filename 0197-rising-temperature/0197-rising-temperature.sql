@@ -14,9 +14,14 @@
 
 
 -- CO-RELATED SUBQYERY
-SELECT id FROM Weather w1 where temperature>
-(SELECT temperature FROM Weather w2
-WHERE w2.recordDate=subdate(w1.recordDate,1));
+-- SELECT id FROM Weather w1 where temperature>
+-- (SELECT temperature FROM Weather w2
+-- WHERE w2.recordDate=subdate(w1.recordDate,1));
+-- OR
+SELECT id FROM Weather w1
+WHERE EXISTS (SELECT * FROM Weather w2
+WHERE w2.recordDate = SUBDATE(w1.recordDate, 1)
+    AND w2.temperature < w1.temperature);-- not exist me '1 include hoha thats why not write
 -- inner query references w1.recordDate(column from the outer query)
 -- DRY RUN
 -- (check all row one by one in cond.-w2.recordDate=subdate(w1.recordDate,1)
