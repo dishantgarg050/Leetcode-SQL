@@ -31,3 +31,11 @@
 | GOOD QUESTION⭐ | [0197-rising-temperature](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/0197-rising-temperature) |-- MOD(), SELF JOIN, CO-RELATED SUBQUERY
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/0197-rising-temperature) |
+<!---LeetCode Topics End-->
