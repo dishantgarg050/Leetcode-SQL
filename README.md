@@ -40,3 +40,11 @@
 
 
 | GOOD QUESTION⭐ | [1251-average-selling-price](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1251-average-selling-price) |-- CLARITY B/W LEFT AND INNER JOIN with the  help of ADVANCED MYSQL FN
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+<!---LeetCode Topics End-->
