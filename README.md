@@ -1,4 +1,5 @@
 # Leetcode-SQL-question
+⭐check some query question  solved by JOINS, SUBQUERY, CO-RELATED SUBQUERY, simple select statement
 -- SELECT
 
 | [1757-recyclable-and-low-fat-products](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1757-recyclable-and-low-fat-products) |
@@ -27,12 +28,6 @@
 | GOOD QUESTION⭐ | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |-- JOINS(MINUS), SUBQUERY, CO-RELATED SUBQUERY
 
 
-| GOOD QUESTION⭐ | [0197-rising-temperature](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/0197-rising-temperature) |
+| GOOD QUESTION⭐ | [0197-rising-temperature](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/0197-rising-temperature) |-- MOD(),SELF JOIN, CO-RELATED SUBQUERY
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0197-rising-temperature](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/0197-rising-temperature) |
-<!---LeetCode Topics End-->
+
