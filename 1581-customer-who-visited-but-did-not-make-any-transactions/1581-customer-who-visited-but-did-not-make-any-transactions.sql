@@ -28,7 +28,7 @@
 -- GROUP BY customer_id;
 -- include all customer where trans is null - so, use LEFT JOIN(MINUS operation)-T2.ID IS NULL
 -- count no of visit with no trans customer wise (grouping)
--- (most optimized solution for null transaction- beacuse not depend on other subquery
+-- (most optimized solution for null transaction- beacuse not depend on other subquery)
 
 -- other method-SUBQUERY
 -- SELECT customer_id, COUNT(visit_id) as count_no_trans FROM Visits
