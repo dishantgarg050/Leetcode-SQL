@@ -1,5 +1,6 @@
 # Leetcode-SQL-question
-⭐check some query question  solved by JOINS, SUBQUERY, CO-RELATED SUBQUERY, simple select statement
+⭐check some query question  solved by many method- JOINS, SUBQUERY, CO-RELATED SUBQUERY, simple select statement
+
 -- SELECT
 
 | [1757-recyclable-and-low-fat-products](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1757-recyclable-and-low-fat-products) |
