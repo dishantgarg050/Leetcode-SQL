@@ -34,10 +34,6 @@
 
 | [1661-average-time-of-process-per-machine](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1661-average-time-of-process-per-machine) |
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
+-- basic aggregate fn
+
 | [0620-not-boring-movies](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/0620-not-boring-movies) |
-<!---LeetCode Topics End-->
