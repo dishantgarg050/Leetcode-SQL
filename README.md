@@ -25,3 +25,11 @@
 
 
 | GOOD QUESTION⭐ | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |-- JOINS(MINUS), SUBQUERY, CO-RELATED SUBQUERY
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/0197-rising-temperature) |
+<!---LeetCode Topics End-->
