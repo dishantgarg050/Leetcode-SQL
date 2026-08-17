@@ -49,3 +49,11 @@
 
 
 | [1211-queries-quality-and-percentage](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1211-queries-quality-and-percentage) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1211-queries-quality-and-percentage](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1211-queries-quality-and-percentage) |
+<!---LeetCode Topics End-->
