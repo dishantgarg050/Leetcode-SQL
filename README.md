@@ -58,4 +58,4 @@ MEDIUM
 | [1174-immediate-food-delivery-ii](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1174-immediate-food-delivery-ii) |-- CO-RELATED SUBQUERY(EXAMPLE LIKE REMOVE ALL RVERSE NO. PAIR)
 
 
-| [0550-game-play-analysis-iv](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0550-game-play-analysis-iv/medium) |
+| [0550-game-play-analysis-iv](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0550-game-play-analysis-iv/) | medium |
