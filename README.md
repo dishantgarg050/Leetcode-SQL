@@ -14,7 +14,6 @@
 | [1683-invalid-tweets](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1683-invalid-tweets) |
 
 
-
 -- JOINS-EASY
 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1378-replace-employee-id-with-the-unique-identifier) |
@@ -26,7 +25,6 @@
 | GOOD QUESTION⭐ | [0197-rising-temperature](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0197-rising-temperature) |-- MOD(), SELF JOIN, CO-RELATED SUBQUERY
 
 | [1661-average-time-of-process-per-machine](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1661-average-time-of-process-per-machine) |
-
 
 
 -- BASIC AGGREGATE FUNCTION-EASY
@@ -42,7 +40,7 @@
 
 | GOOD QUESTION⭐ | [1211-queries-quality-and-percentage](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1211-queries-quality-and-percentage) |-- CO-RELATED SUBQUERY-(2 INNER QUERY AND 1 outer query)
 
-MEDIUM 
+-->MEDIUM 
 
 | [1193-monthly-transactions-i](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1193-monthly-transactions-i) |
 
