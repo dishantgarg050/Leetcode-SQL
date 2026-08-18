@@ -44,13 +44,13 @@
 
 | [1075-project-employees-i](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1075-project-employees-i) |
 
-MEDIUM 
 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1633-percentage-of-users-attended-a-contest) |
 
 
 | GOOD QUESTION⭐ | [1211-queries-quality-and-percentage](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1211-queries-quality-and-percentage) |-- CO-RELATED SUBQUERY-(2 INNER QUERY AND 1 outer query)
 
+MEDIUM 
 
 | [1193-monthly-transactions-i](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1193-monthly-transactions-i) |
 
