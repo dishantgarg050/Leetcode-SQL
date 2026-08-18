@@ -59,3 +59,11 @@ MEDIUM
 
 
 | [0550-game-play-analysis-iv](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0550-game-play-analysis-iv/) | medium |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0550-game-play-analysis-iv](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0550-game-play-analysis-iv/) | Medium |
+<!---LeetCode Topics End-->
