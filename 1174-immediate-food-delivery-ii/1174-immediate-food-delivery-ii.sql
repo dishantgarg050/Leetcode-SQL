@@ -15,8 +15,8 @@
 SELECT ROUND(SUM(IF(CUSTOMER_PREF_DELIVERY_DATE=ORDER_DATE,1,0)) *100/
 count(d1.customer_id), 2)as immediate_percentage from delivery d1
 WHERE ORDER_DATE=
-                (SELECT MIN(ORDER_DATE)FROM delivery d2 
-                WHERE d2.customer_id = d1.customer_id);
- 
+                (SELECT MIN(order_date) FROM delivery d2 
+                WHERE d2.customer_id = d1.customer_id );
+ -- co-related subquery like remove reverse no pair remove example
 
 
