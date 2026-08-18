@@ -50,3 +50,11 @@
 
 | GOOD QUESTION⭐ | [1211-queries-quality-and-percentage](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1211-queries-quality-and-percentage) |-- CO-RELATED SUBQUERY-(2 INNER QUERY AND 1 outer query)
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1193-monthly-transactions-i](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1193-monthly-transactions-i) |
+<!---LeetCode Topics End-->
