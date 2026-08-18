@@ -1,7 +1,7 @@
 # Leetcode-SQL-question
 ⭐check some query question  solved by many method- JOINS, SUBQUERY, CO-RELATED SUBQUERY, simple select statement
 
--- SELECT
+-- SELECT-EASY
 
 | [1757-recyclable-and-low-fat-products](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1757-recyclable-and-low-fat-products) |
 
@@ -18,7 +18,7 @@
 | [1683-invalid-tweets](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1683-invalid-tweets) |
 
 
--- JOINS
+-- JOINS-EASY
 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 
@@ -34,7 +34,7 @@
 
 | [1661-average-time-of-process-per-machine](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1661-average-time-of-process-per-machine) |
 
--- BASIC AGGREGATE FUNCTION
+-- BASIC AGGREGATE FUNCTION-EASY
 
 | [0620-not-boring-movies](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/0620-not-boring-movies) |
 
@@ -44,6 +44,7 @@
 
 | [1075-project-employees-i](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1075-project-employees-i) |
 
+MEDIUM 
 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/dishantgarg050/Leetcode-SQL/tree/master/1633-percentage-of-users-attended-a-contest) |
 
