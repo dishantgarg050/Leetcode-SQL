@@ -1,6 +1,7 @@
 # Leetcode-SQL-question
 ⭐check some query question  solved by many method- JOINS, SUBQUERY, CO-RELATED SUBQUERY, simple select statement
-                 ⭐SOLVE QUERY STEP STEP BY STEP TO RUN ATLEAST SOME TEST_CASE LIKE Q.1327
+                 
+       ⭐SOLVE QUERY STEP STEP BY STEP TO RUN ATLEAST SOME TEST_CASE LIKE Q.1327
 
 -- SELECT-EASY
 
