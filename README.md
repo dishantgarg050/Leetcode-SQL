@@ -30,7 +30,11 @@
 
 | [1280-students-and-examinations](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1280-students-and-examinations/) |-- CROSS JOIN
 
+-->MEDIUM
+
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0570-managers-with-at-least-5-direct-reports/) |-- GROUP WITH HAVING
+
+| [1934-confirmation-rate](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1934-confirmation-rate/) |
 
 
 -- BASIC AGGREGATE FUNCTION-EASY
@@ -56,10 +60,4 @@
 
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1934-confirmation-rate](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1934-confirmation-rate/) | Medium |
-<!---LeetCode Topics End-->
+
