@@ -14,5 +14,7 @@
 select m.name from employee as e
 inner join
 employee as m on e.managerid=m.id 
-group by m.id having count(e.id)>=5;
+ group by m.id having  count(e.id)>=5 ;
 -- e.managerid=m.id- us employee ke manager ki id equals manager ki id
+-- result table filter-group with having
+
