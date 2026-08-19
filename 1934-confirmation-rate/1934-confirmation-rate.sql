@@ -24,7 +24,7 @@
 -- confirmation_rate="confirmed" message/total requested message
 -- any user-not request a message then confirmation rate=0
 -- FIND THE confirmation rate of each user and rounded upto 2 decimal places.
-select s.user_id, ROUND(IFNULL(sum(c.action="confirmed")/count(c.action), 0), 2)as confirmation_rate from signups as s
+select s.user_id, IFNULL(ROUND(sum(c.action="confirmed")/count(c.action), 2), 0)as confirmation_rate from signups as s
 left join 
 confirmations as c on s.user_id=c.user_id
 group by s.user_id;
