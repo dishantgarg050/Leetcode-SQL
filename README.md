@@ -66,10 +66,4 @@
 
 | GOOD QUESTION⭐ | [0196-delete-duplicate-emails](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0196-delete-duplicate-emails/) |-- SELF JOIN ON DELETE SATEMENT
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1484-group-sold-products-by-the-date](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1484-group-sold-products-by-the-date/) | Easy |
-<!---LeetCode Topics End-->
+| [1484-group-sold-products-by-the-date](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1484-group-sold-products-by-the-date/) |-- GROUP_CONCAT- concat the string present in multiple rows
