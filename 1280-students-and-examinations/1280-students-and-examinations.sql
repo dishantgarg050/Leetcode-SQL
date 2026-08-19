@@ -40,3 +40,5 @@ examinations as e on st.student_id=e.student_id
                      and s.subject_name=e.subject_name
 group by st.student_id,s.subject_name 
 order by student_id,subject_name;
+-- 'join' ke sath ON condition not given -then works as cross join 
+--  SO, count  all possible scenario in result table-
