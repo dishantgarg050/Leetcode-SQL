@@ -39,7 +39,7 @@
 | [1934-confirmation-rate](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1934-confirmation-rate/) |
 
 
--- BASIC AGGREGATE FUNCTIONS-EASY
+    -- BASIC AGGREGATE FUNCTIONS-EASY
 
 | [0620-not-boring-movies](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0620-not-boring-movies) |
 
@@ -60,7 +60,7 @@
 | [0550-game-play-analysis-iv](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0550-game-play-analysis-iv/) |
 
 
--- ADVANCE STRING FUNCTIONS-EASY 
+    -- ADVANCE STRING FUNCTIONS-EASY 
 
 | [1667-fix-names-in-a-table](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1667-fix-names-in-a-table/) |
 
