@@ -15,7 +15,10 @@
 select  sell_date, count(distinct product) as num_sold, 
                    group_concat(distinct product) as products  
  from activities
- group by sell_date order by sell_date ,product;
+ group by sell_date order by sell_date, product;
+ -- group_concat- concat the string present in multiple rows
+ -- but concat-concat the string in multiple col of row
+ -- concat_ws-concat the string in multiple col of row with separator or space
 
  
 
