@@ -51,3 +51,11 @@
 | [1174-immediate-food-delivery-ii](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1174-immediate-food-delivery-ii) |-- CO-RELATED SUBQUERY(EXAMPLE LIKE REMOVE ALL RVERSE NO. PAIR)
 
 | [0550-game-play-analysis-iv](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0550-game-play-analysis-iv/) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+<!---LeetCode Topics End-->
