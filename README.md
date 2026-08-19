@@ -28,7 +28,7 @@
 
 | [0577-employee-bonus](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0577-employee-bonus/) |
 
-| [1280-students-and-examinations](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1280-students-and-examinations/) |
+| [1280-students-and-examinations](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1280-students-and-examinations/) |-- CROSS JOIN
 
 
 -- BASIC AGGREGATE FUNCTION-EASY
