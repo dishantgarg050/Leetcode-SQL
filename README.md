@@ -55,3 +55,11 @@
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1280-students-and-examinations](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1280-students-and-examinations/) | Easy |
+<!---LeetCode Topics End-->
