@@ -55,3 +55,11 @@
 | [0550-game-play-analysis-iv](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0550-game-play-analysis-iv/) |
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1934-confirmation-rate](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1934-confirmation-rate/) | Medium |
+<!---LeetCode Topics End-->
