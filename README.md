@@ -64,10 +64,4 @@
 
 | [1527-patients-with-a-condition](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1527-patients-with-a-condition/) |
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0196-delete-duplicate-emails](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0196-delete-duplicate-emails/) | Easy |
-<!---LeetCode Topics End-->
+| [0196-delete-duplicate-emails](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0196-delete-duplicate-emails/) |
