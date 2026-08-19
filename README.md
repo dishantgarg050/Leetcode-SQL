@@ -1,5 +1,6 @@
 # Leetcode-SQL-question
 ⭐check some query question  solved by many method- JOINS, SUBQUERY, CO-RELATED SUBQUERY, simple select statement
+⭐SOLVE QUERY STEP STEP BY STEP TO RUN ATLEAST SOME TEST_CASE LIKE Q.1327
 
 -- SELECT-EASY
 
@@ -68,10 +69,4 @@
 
 | [1484-group-sold-products-by-the-date](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1484-group-sold-products-by-the-date/) |-- GROUP_CONCAT- concat the string present in multiple rows
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1327-list-the-products-ordered-in-a-period](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
-<!---LeetCode Topics End-->
+| [1327-list-the-products-ordered-in-a-period](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1327-list-the-products-ordered-in-a-period/) |-- SOLVE QUERY STEP STEP BY STEP
