@@ -61,3 +61,11 @@
 -- ADVANCE STRING FUNCTIONS-EASY 
 
 | [1667-fix-names-in-a-table](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1667-fix-names-in-a-table/) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1527-patients-with-a-condition](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1527-patients-with-a-condition/) | Easy |
+<!---LeetCode Topics End-->
