@@ -16,7 +16,7 @@
 | [1683-invalid-tweets](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1683-invalid-tweets) |
 
 
--- JOINS-EASY
+    -- JOINS-EASY
 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1378-replace-employee-id-with-the-unique-identifier) |
 
