@@ -30,7 +30,7 @@
 
 | [1280-students-and-examinations](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1280-students-and-examinations/) |-- CROSS JOIN
 
-| [0570-managers-with-at-least-5-direct-reports](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0570-managers-with-at-least-5-direct-reports/) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0570-managers-with-at-least-5-direct-reports/) |-- GROUP WITH HAVING
 
 
 -- BASIC AGGREGATE FUNCTION-EASY
