@@ -26,6 +26,8 @@
 
 | [1661-average-time-of-process-per-machine](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1661-average-time-of-process-per-machine) |
 
+| [0577-employee-bonus](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0577-employee-bonus/) |
+
 
 -- BASIC AGGREGATE FUNCTION-EASY
 
@@ -51,10 +53,5 @@
 | [0550-game-play-analysis-iv](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0550-game-play-analysis-iv/) |
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0577-employee-bonus](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0577-employee-bonus/) | Easy |
-<!---LeetCode Topics End-->
+
+
