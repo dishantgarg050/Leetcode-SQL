@@ -28,6 +28,8 @@
 
 | [0577-employee-bonus](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0577-employee-bonus/) |
 
+| [1280-students-and-examinations](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1280-students-and-examinations/) |
+
 
 -- BASIC AGGREGATE FUNCTION-EASY
 
@@ -46,20 +48,6 @@
 
 | [1193-monthly-transactions-i](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1193-monthly-transactions-i) |
 
-
 | [1174-immediate-food-delivery-ii](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1174-immediate-food-delivery-ii) |-- CO-RELATED SUBQUERY(EXAMPLE LIKE REMOVE ALL RVERSE NO. PAIR)
 
-
 | [0550-game-play-analysis-iv](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0550-game-play-analysis-iv/) |
-
-
-
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1280-students-and-examinations](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1280-students-and-examinations/) | Easy |
-<!---LeetCode Topics End-->
