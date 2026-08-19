@@ -1,7 +1,7 @@
 # Leetcode-SQL-question
 ⭐check some query question  solved by many method- JOINS, SUBQUERY, CO-RELATED SUBQUERY, simple select statement
                  
-⭐SOLVE QUERY STEP STEP BY STEP TO RUN ATLEAST SOME TEST_CASE LIKE https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1327-list-the-products-ordered-in-a-period/
+⭐SOLVE QUERY STEP STEP BY STEP TO RUN ATLEAST SOME TEST_CASE LIKE Q-1327:https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1327-list-the-products-ordered-in-a-period/
 
     -- SELECT-EASY
 
