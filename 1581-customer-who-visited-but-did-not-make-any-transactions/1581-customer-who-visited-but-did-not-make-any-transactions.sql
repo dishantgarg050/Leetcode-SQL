@@ -28,7 +28,7 @@
 -- GROUP BY customer_id;
 -- include all customer where trans is null - so, use LEFT JOIN(MINUS operation)-T2.ID IS NULL
 -- count no of visit with no trans customer wise (grouping)
--- (most optimized solution for null transaction- beacuse not depend on other subquery)
+-- (most optimized solution for null transaction- beacuse not depend on other subquery
 
 -- other method-SUBQUERY
 -- SELECT customer_id, COUNT(visit_id) as count_no_trans FROM Visits
@@ -45,13 +45,13 @@ WHERE t.visit_id = v.visit_id) GROUP BY customer_id;
 -- DRY RUN- t.visit_id=v.visit.id
 -- Outer row 	                Inner query runs             have Transactions ?     NOT EXISTS result	                          Row kept?
 -- (v.visit_id, customer_id)   one time for one value                             (exist h -true, not exist result-false)                   
--- (1, 23)	                     visit_id = 1	             Yes (12)	             FALSE	                                      ❌ remove
--- (2, 9)	                     visit_id = 2	             Yes (13)	             FALSE	                                      ❌ remove
--- (4, 30)	                     visit_id = 4	             No	                     TRUE	                                      ✅ Kept
--- (5, 54)	                     visit_id = 5	             Yes (2,3,9)	         FALSE	                                      ❌ remove
--- (6, 96)	                     visit_id = 6	             No	                     TRUE	                                      ✅ Kept
--- (7, 54)	                     visit_id = 7	             No	T                    RUE	                                      ✅ Kept
--- (8, 54)	                     visit_id = 8	             No	                     TRUE	                                      ✅ Kept
+-- (1, 23)	                     visit_id = 1	             Yes (12)	             FALSE	                                      remove
+-- (2, 9)	                     visit_id = 2	             Yes (13)	             FALSE	                                      remove
+-- (4, 30)	                     visit_id = 4	             No	                     TRUE	                                      Kept
+-- (5, 54)	                     visit_id = 5	             Yes (2,3,9)	         FALSE	                                      remove
+-- (6, 96)	                     visit_id = 6	             No	                     TRUE	                                      Kept
+-- (7, 54)	                     visit_id = 7	             No	T                    RUE	                                      Kept
+-- (8, 54)	                     visit_id = 8	             No	                     TRUE	                                      Kept
 
 -- GROUPING BY CUSTOMER ID + COUNT
 -- customer_id | count_no_trans
