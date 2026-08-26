@@ -71,3 +71,11 @@
 | [1484-group-sold-products-by-the-date](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1484-group-sold-products-by-the-date/) |-- GROUP_CONCAT- concat the string present in multiple rows
 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1327-list-the-products-ordered-in-a-period/) |-- SOLVE QUERY STEP STEP BY STEP
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+<!---LeetCode Topics End-->
