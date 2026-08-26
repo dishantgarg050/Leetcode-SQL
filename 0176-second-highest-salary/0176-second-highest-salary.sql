@@ -9,6 +9,6 @@
 -- FIND the second highest salary 
 -- select salary from employee order by salaru desc 
 -- then
-select max(e1.salary) as SecondHighestSalary from employee e1 where 1=
+select max(e1.salary) as SecondHighestSalary from employee e1 where 2=
 (select count(distinct e2.salary) from employee e2 
-        where e2.salary>e1.salary);
+        where e2.salary>=e1.salary);
