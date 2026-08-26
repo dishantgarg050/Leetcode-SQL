@@ -19,4 +19,4 @@
 select max(e1.salary) as SecondHighestSalary from employee e1 where 2=
 (select count(distinct e2.salary) from employee e2 
         where e2.salary>=e1.salary);
--- 2nd case input only 100 h table me then count-->1!=2 then no second highest salary return null
+-- 2nd case input only 100 h table me then count-->1!=2 then no second highest salary, return null
