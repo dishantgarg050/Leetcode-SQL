@@ -73,3 +73,11 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1327-list-the-products-ordered-in-a-period/) |-- SOLVE QUERY STEP STEP BY STEP
 
 | GOOD QUESTION⭐ | [1517-find-users-with-valid-e-mails](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1517-find-users-with-valid-e-mails/) |-- REGULAR EXPRESSION FN FOR SEARCHING PATTERN 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+<!---LeetCode Topics End-->
