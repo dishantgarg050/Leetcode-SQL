@@ -74,11 +74,5 @@
 
 | GOOD QUESTION⭐ | [1517-find-users-with-valid-e-mails](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/1517-find-users-with-valid-e-mails/) |-- REGULAR EXPRESSION FN FOR SEARCHING PATTERN 
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0176-second-highest-salary](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0176-second-highest-salary/) | Medium |
-<!---LeetCode Topics End-->
+--> MEDIUM
+| [0176-second-highest-salary](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0176-second-highest-salary/) |
