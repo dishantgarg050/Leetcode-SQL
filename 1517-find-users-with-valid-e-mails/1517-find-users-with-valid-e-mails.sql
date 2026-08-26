@@ -19,3 +19,10 @@
 select * from Users 
 where regexp_like(mail, '^[A-Za-z]+[A-Za-z0-9\_\.\-]*@leetcode[.]com$')
      and mail like binary'%@leetcode.com';
+
+-- regexp_like()-regular ecxperression function used for-->searching pattern
+-- []- represent CHAR SET
+-- '+'- represent previous CHar set repeat atleast one time
+-- '*'- represent previous CHar set repeat atleat one time or not
+-- '^'- repesent start of string , '$'- repesent end of string
+-- in this question want, domain name  must be in lower case then also  use-->binary fn  for byte by byte comparison
