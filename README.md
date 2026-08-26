@@ -76,3 +76,11 @@
 
 --> MEDIUM
 | [0176-second-highest-salary](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0176-second-highest-salary/) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/dishantgarg050/Leetcode-SQL/tree/main/0176-second-highest-salary/) | Medium |
+<!---LeetCode Topics End-->
